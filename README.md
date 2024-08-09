@@ -1,2 +1,2 @@
-# an-lisis-exploratorio-de-datos
+# analisis-exploratorio-de-datos
 Talleres - Ejercicios del curso
